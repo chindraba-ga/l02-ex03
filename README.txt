@@ -69,10 +69,6 @@ The starter code is:
         </body>
     </html>
 
-- CSS
-
-    STARTER CSS goes here.
-
 
 Copyright and License
 ================================================================================

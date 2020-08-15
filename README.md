@@ -69,11 +69,7 @@ The starter code is:
         </body>
     </html>
 
-#### CSS
-
-    STARTER CSS goes here.
-
-[TOP](#contents)
+S[TOP](#contents)
 
 ---
 ## Copyright and License
