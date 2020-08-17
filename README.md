@@ -1,6 +1,6 @@
 # l02-ex03
 
--  Status: Pending
+-  Status: Submitted
 -  CodePen: <https://codepen.io/chindraba-ga/pen/NWNPpXe>
 -  Live page: <https://www.chindraba.work/fewd/l02-ex03.html>
 
